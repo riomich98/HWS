@@ -1,0 +1,82 @@
+[
+	{
+		"country": "United Kingdom",
+		"capitalCity": "London",
+		"size": 242495,
+		"population": 67886004,
+		"currency": "Pound Sterling (GBP)",
+		"gdp": 2.638000000000
+	},
+	{
+		"country": "United States",
+		"capitalCity": "Washington, D.C.",
+		"size": 9826675,
+		"population": 330746845,
+		"currency": "United States Dollar (USD)",
+		"gdp": 20.807000000000
+	},
+	{
+		"country": "China",
+		"capitalCity": "Beijing",
+		"size": 9596961,
+		"population": 1400050000,
+		"currency": "Renminbi (RMB)",
+		"gdp": 14.861000000000
+	},
+	{
+		"country": "Japan",
+		"capitalCity": "Tokyo",
+		"size": 377975,
+		"population": 125710000,
+		"currency": "Japanese Yen (JP¥)",
+		"gdp": 4.911000000000
+	},
+	{
+		"country": "Germany",
+		"capitalCity": "Berlin",
+		"size": 357022,
+		"population": 83166711,
+		"currency": "Euro (EUR)",
+		"gdp": 3.780000000000
+	},
+	{
+		"country": "India",
+		"capitalCity": "New Delhi",
+		"size": 3287263,
+		"population": 1352642280,
+		"currency": "Indian Rupee (INR)",
+		"gdp": 2.59000000000
+	},
+	{
+		"country": "France",
+		"capitalCity": "Paris",
+		"size": 640679,
+		"population": 67147000,
+		"currency": "Euro (EUR)",
+		"gdp": 2.551000000000
+	},
+	{
+		"country": "Italy",
+		"capitalCity": "Rome",
+		"size": 301340,
+		"population": 60317116,
+		"currency": "Euro (EUR)",
+		"gdp": 1.989000000000
+	},
+	{
+		"country": "Canada",
+		"capitalCity": "Ottawa",
+		"size": 9984670,
+		"population": 38008005,
+		"currency": "Canadian Dollar (CAD)",
+		"gdp": 1.600000000000
+	},
+	{
+		"country": "South Korea",
+		"capitalCity": "Seoul",
+		"size": 100363,
+		"population": 51709098,
+		"currency": "Korean Republic Won (KRW)",
+		"gdp": 1.586000000000
+	}
+]
